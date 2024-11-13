@@ -12,4 +12,6 @@ Despues de definir el tema que queriamos utilizar necesitabamos saber cual seria
 - Se utiliza python en el modelo
 - El si a certo o no el programa se registro en una pagina de excel
 - Desde la pagina de Excel se sacaron las conclusiones
-- NOSOTROS NO HICIMOS EL MODELO PROEDICTIVO!!!!!
+- NOSOTROS NO HICIMOS EL MODELO PREDICTIVO!!!!!
+- En el archivo StockProjectBlog se encuentra el modelo predictivo
+- Es importante recalcar que el modelo cambiara dia con dia, es por ello que fue necesario registrar cada uno de los movimientos del mismo en una aplicación externa.
