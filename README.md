@@ -1,3 +1,9 @@
+# INTEGRANTES
+
+## Alejandro López Becerra
+## Victoria Saldaña Hernandez
+## Iara Idalia Zapot Juarez
+
 # 1.	Introducción 
 Objetivo del proyecto: 
 El presente proyecto tiene como finalidad el análisis del mercado de valores, precisamente de la compañía “Microsoft”, este proyecto se centra en la parte del análisis técnico, el mismo utiliza el conjunto de datos de los precios de las acciones desde el 13 de marzo 1986 hasta el presente día, para construir un modelo capaz de estimar los precios de las acciones.
